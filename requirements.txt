@@ -1,0 +1,9 @@
+fastapi
+passlib==1.7.3
+python-jose
+sqlalchemy
+streamlit
+uvicorn
+pydantic[email]
+psycopg2
+bcrypt

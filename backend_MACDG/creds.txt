@@ -1,0 +1,3 @@
+PostgreSQL:
+    superuser: postgres
+    password: 1234
